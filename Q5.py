@@ -1,4 +1,4 @@
-# Design an algorithm for comparing three values
+#5) Design an algorithm for comparing three values
 def comparingThreeValues(a,b,c):
     if a>b:
         if c>a:
